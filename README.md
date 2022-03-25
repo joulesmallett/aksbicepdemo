@@ -1,4 +1,4 @@
-## aksbicep
+## aksbicept
 
 An example to create an AKS cluster with secrets from Azure Key Vault with Bicep and GitHub actions.  Once the cluster is created, the workflow will apply `manifests/deployment.yml` that's a pre-created image.
 
