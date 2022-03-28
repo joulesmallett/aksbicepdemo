@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "linuxAdminUsername": {
-      "value": "aksjlmadmin"
+      "value": "aksadmin"
     },
     "sshRSAPublicKey": {
       "reference": {
